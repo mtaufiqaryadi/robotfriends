@@ -1,0 +1,8 @@
+@font-face {
+    src: url('./BowlbyOneSC-Regular.ttf');
+    font-family:'Bowlby One SC', cursive;
+}
+
+h1 {
+    font-family: 'Bowlby One SC', cursive;
+}
